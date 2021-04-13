@@ -1,4 +1,5 @@
 👋 Hi, Soy Marcela Chamorro.
+
 👀 Objetivos: por ahora apender Desarrollo Web, pero también se algo de java, en un futuro quisiera ser Full Stack.
 🌱 He estado aprendiendo: 
 - html
