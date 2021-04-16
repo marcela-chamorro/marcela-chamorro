@@ -1,7 +1,7 @@
 ![presentacion_Trim](https://user-images.githubusercontent.com/82426298/115081873-5c63c180-9edb-11eb-9669-5de9d231dd87.gif)
 
 
-📝 Objetivos: por ahora apender Desarrollo Web.
+📝 Objetivos: por ahora aprender Desarrollo Web.
 
 📌 Tengo conocimientos en: Java. Soy estudiante avanzada de Licenciatura en sistemas.
 
