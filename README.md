@@ -1,4 +1,5 @@
-👋 Hi, Soy Marcela Chamorro.
+![name](https://user-images.githubusercontent.com/82426298/115080106-94b5d080-9ed8-11eb-99de-e891ccf96c1a.png)
+
 
 👀 Objetivos: por ahora apender Desarrollo Web.
 Tengo conocimientos en: Java, SQL, Metodologías agiles: Scrum.   
