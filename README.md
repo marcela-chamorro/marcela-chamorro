@@ -2,9 +2,14 @@
 
 
 📝 Objetivos: por ahora apender Desarrollo Web.
-📌 Tengo conocimientos en: Java.   
 
- 💜 He estado aprendiendo: 
+📌 Tengo conocimientos en: Java. Soy estudiante avanzada de Licenciaturas en sistemas.
+
+✔ Trabajo en equipo.
+✔ Metodologías ágiles: Scrum.
+✔ Ganas de aprender.
+
+💜 He estado aprendiendo: 
 - git
 - html
 - css
@@ -13,6 +18,7 @@
 - angular
 - typescript
 
+📩 Contacto: https://www.linkedin.com/in/marcela-chamorro/
 <!---
 marcela-chamorro/marcela-chamorro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
