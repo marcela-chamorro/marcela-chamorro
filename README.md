@@ -1,7 +1,8 @@
 👋 Hi, Soy Marcela Chamorro.
 
 👀 Objetivos: por ahora apender Desarrollo Web.
-Tengo conocimientos en: Java, SQL, Metodologías agiles: Scrum.
+Tengo conocimientos en: Java, SQL, Metodologías agiles: Scrum.   
+
 🌱 He estado aprendiendo: 
 - git
 - html
