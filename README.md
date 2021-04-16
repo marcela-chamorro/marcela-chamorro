@@ -3,7 +3,7 @@
 
 📝 Objetivos: por ahora apender Desarrollo Web.
 
-📌 Tengo conocimientos en: Java. Soy estudiante avanzada de Licenciaturas en sistemas.
+📌 Tengo conocimientos en: Java. Soy estudiante avanzada de Licenciatura en sistemas.
 
 ✔ Trabajo en equipo.
 ✔ Metodologías ágiles: Scrum.
