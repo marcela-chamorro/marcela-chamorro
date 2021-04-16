@@ -1,13 +1,15 @@
 👋 Hi, Soy Marcela Chamorro.
 
-👀 Objetivos: por ahora apender Desarrollo Web, pero también se algo de java, en un futuro quisiera ser Full Stack.
+👀 Objetivos: por ahora apender Desarrollo Web.
+Tengo conocimientos en: Java, SQL, Metodologías agiles: Scrum.
 🌱 He estado aprendiendo: 
+- git
 - html
 - css
 - javascript 
 - bootstrap 
 - angular
-- git, github
+- typescript
 
 <!---
 marcela-chamorro/marcela-chamorro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
