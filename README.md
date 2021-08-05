@@ -9,7 +9,7 @@
 ✔ Metodologías ágiles: Scrum.
 ✔ Ganas de aprender.
 
-💜 He estado aprendiendo: 
+💜 Estoy aprendiendo: 
 - git
 - html
 - css
